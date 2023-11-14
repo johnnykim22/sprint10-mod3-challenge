@@ -46,6 +46,8 @@
     "react-router-dom": "5.2.0",
     "redux": "^4.1.2",
     "sass": "^1.32.8",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.4",
     "style-loader": "^3.3.1",
     "styled-components": "5.3.3",
     "webpack-cli": "^4.9.1"
